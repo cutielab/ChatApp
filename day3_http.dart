@@ -1,3 +1,5 @@
+// Source code of "Build ChatGPT App with Flutter!! 3/3 http package ver."
+
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
