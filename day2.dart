@@ -1,3 +1,5 @@
+// Source code of "Build ChatGPT App with Flutter!! 2/3"
+
 import 'package:flutter/material.dart';
 
 main() {
