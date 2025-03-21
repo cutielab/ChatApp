@@ -1,3 +1,5 @@
+// Source code of "Build ChatGPT App with Flutter!! 3/3 easy ver."
+
 import 'package:flutter/material.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
